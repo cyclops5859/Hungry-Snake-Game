@@ -1,5 +1,7 @@
-# pip install turtle
-# pip install random2
+# Created by Cyclops!
+# Modules to install:
+# turtle
+# random2
 
 import turtle
 import random
